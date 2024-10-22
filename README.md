@@ -1,4 +1,4 @@
-# 👋 Hi there, I'm [Your Name]!
+# 👋 Hi there, I'm [Ayu]!
 
 Welcome to my GitHub profile! I'm a passionate developer, always excited to learn new technologies and contribute to the community. Below you can find more about me and my work!
 
@@ -7,7 +7,7 @@ Welcome to my GitHub profile! I'm a passionate developer, always excited to lear
 ## 🔥 GitHub Streaks
 
 <!-- GitHub Streak Image -->
-[![GitHub Streak](https://streak-stats.demolab.com/?user=YourUsername&theme=radical&hide_border=true)](https://git.io/streak-stats)
+[![GitHub Streak](https://streak-stats.demolab.com/?user=ayudixit&theme=radical&hide_border=true)](https://git.io/streak-stats)
 
 ---
 
@@ -32,7 +32,7 @@ Welcome to my GitHub profile! I'm a passionate developer, always excited to lear
 ## 📊 Languages and Tools Used
 
 <!-- GitHub Language Stats -->
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=YourUsername&layout=compact&theme=radical)](https://github.com/anuraghazra/github-readme-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=ayudixit&layout=compact&theme=radical)](https://github.com/anuraghazra/github-readme-stats)
 
 ---
 
@@ -48,7 +48,7 @@ Feel free to reach out to me for collaborations or just to connect!
 
 ## 🌟 Thanks for Visiting!
 
-![Visitor Badge](https://visitor-badge.laobi.icu/badge?page_id=YourUsername)
+![Visitor Badge](https://visitor-badge.laobi.icu/badge?page_id=ayudixit)
 
 *If you like my work, consider giving a ⭐️ or following me!*
 
