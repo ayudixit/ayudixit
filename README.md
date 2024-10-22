@@ -16,7 +16,7 @@
 </picture>
 
 # 💫 About Me:
-## Hi, I'm Ankit Kumar
+## Hi, I'm Ayush Dixit 
 
 ### 🌱 Having Knowledge about
 [![Web Development](https://img.shields.io/badge/Web%20Development-0078D4?style=plastic)](your_link_here)
