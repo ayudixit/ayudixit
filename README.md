@@ -20,14 +20,14 @@
 
 ### 🌱 Having Knowledge about
 [![Web Development](https://img.shields.io/badge/Web%20Development-0078D4?style=plastic)](your_link_here)
-[![App Development](https://img.shields.io/badge/App%20Development-800080?style=plastic)](your_link_here)
+[![App Development](https://img.shields.io/badge/Web%20Designing-800080?style=plastic)](your_link_here)
 
 
 ### 🌱 Currently Learning
 [![DSA With JAVA](https://img.shields.io/badge/DSA%20With%20JAVA-%23ED8B00.svg?style=plastic&logo=java&logoColor=white)](your_link_here)
 [![Web Desiging](https://img.shields.io/badge/Kotlin%20Android%20Development-%230095D5.svg?style=plastic&logo=kotlin&logoColor=white)](your_link_here)
 [![Frontend in Web Development](https://img.shields.io/badge/Backend%20in%20Web%20Development-%2343853D.svg?style=plastic&logo=node.js&logoColor=white)](your_link_here)
-[![Backend in Web Development](https://img.shields.io/badge/Backend%20in%20Web%20Development-%2343853D.svg?style=plastic&logo=node.js&logoColor=white)](your_link_here)
+[![Backend in Web Development](https://img.shields.io/badge/Frontend%20in%20Web%20Development-%23ED8B00.svg?style=plastic&logo=node.js&logoColor=white)](your_link_here)
 
 <p> <a img align="center" href="https://roadmap.sh"><img src="https://roadmap.sh/card/wide/66d081c9553501e3c3f279b3?variant=dark" alt="roadmap.sh"/></a></p>
 
