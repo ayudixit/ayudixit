@@ -64,8 +64,9 @@
 ![Canva](https://img.shields.io/badge/Canva-%2300C4CC.svg?style=plastic&logo=Canva&logoColor=white)
 
 
-# 🏆 Achievements
-[![Trophy](<p align="center"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=ayudixit" alt="ayudixit" /> </a> </p>)]()
+## 🏆 Achievements
+
+![Trophies]<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=ayudixit" alt="ayudixit" /></a> </p>
 
 # 📊 GitHub Stats:
 ![](https://github-readme-stats.vercel.app/api?username=ayudixit&theme=radical&hide_border=false&include_all_commits=true&count_private=true)<br/>
