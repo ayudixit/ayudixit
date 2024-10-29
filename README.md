@@ -70,9 +70,9 @@
 <p align="center"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=ayudixit" alt="ayudixit" /></a> </p>
 
 ## 📊 GitHub Stats:
-![](https://github-readme-stats.vercel.app/api?username=ayudixit&theme=radical&hide_border=false&include_all_commits=true&count_private=true)<br/>
-[![GitHub Streak](https://streak-stats.demolab.com?user=ayudixit&theme=java-dark&card_width=1200)](https://git.io/streak-stats)<br/>
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=ayudixit&theme=radical&hide_border=false&include_all_commits=true&count_private=true&layout=compact)
+![](https://github-readme-stats.vercel.app/api?username=ayudixit&theme=radical&hide_border=false&include_all_commits=true&count_private=true&card_width=1200&card_height=400)<br/>
+[![GitHub Streak](https://streak-stats.demolab.com?user=ayudixit&theme=java-dark&card_width=1200&card_height=400)](https://git.io/streak-stats)<br/>
+![](https://github-readme-stats.vercel.app/api/top-langs/?username=ayudixit&theme=radical&hide_border=false&include_all_commits=true&count_private=true&layout=compact&card_width=1200&card_height=400)
 
 ### 🔝 Top Contributed Repo
 ![](https://github-contributor-stats.vercel.app/api?username=ayudixit&limit=5&theme=dark&combine_all_yearly_contributions=true)
