@@ -75,6 +75,6 @@
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=ayudixit&theme=radical&hide_border=false&include_all_commits=true&count_private=true&layout=compact&card_width=1200&card_height=1000)
 
 ### 🔝 Top Contributed Repo
-![](https://github-contributor-stats.vercel.app/api?username=ayudixit&limit=5&theme=dark&combine_all_yearly_contributions=true)
+![](https://github-contributor-stats.vercel.app/api?username=ayudixit&limit=5&theme=dark&combine_all_yearly_contributions=true&card_width=1200&card_height=600)
 
 [![](https://visitcount.itsvg.in/api?id=ayudixit&label=Profile%20Views&color=6&icon=5&pretty=false)](https://visitcount.itsvg.in)
