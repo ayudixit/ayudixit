@@ -71,8 +71,8 @@
 
 ## 📊 GitHub Stats:
 ![](https://github-readme-stats.vercel.app/api?username=ayudixit&theme=radical&hide_border=false&include_all_commits=true&count_private=true&card_width=1200&card_height=800)<br/>
-[![GitHub Streak](https://streak-stats.demolab.com?user=ayudixit&theme=java-dark&card_width=1200&card_height=600)](https://git.io/streak-stats)<br/>
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=ayudixit&theme=radical&hide_border=false&include_all_commits=true&count_private=true&layout=compact&card_width=1200&card_height=1000)
+[![GitHub Streak](https://streak-stats.demolab.com?user=ayudixit&theme=youtube-dark&card_width=1199&card_height=250)](https://git.io/streak-stats)<br/>
+![](https://github-readme-stats.vercel.app/api/top-langs/?username=ayudixit&theme=radical&hide_border=false&include_all_commits=true&count_private=true&layout=compact&card_width=1200&card_height=100)
 
 ### 🔝 Top Contributed Repo
 ![](https://github-contributor-stats.vercel.app/api?username=ayudixit&limit=5&theme=dark&combine_all_yearly_contributions=true&card_width=1200&card_height=600)
