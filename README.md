@@ -29,7 +29,7 @@
 [![Frontend in Web Development](https://img.shields.io/badge/Backend%20in%20Web%20Development-%2343853D.svg?style=plastic&logo=node.js&logoColor=white)](your_link_here)
 [![Backend in Web Development](https://img.shields.io/badge/Backend%20in%20Web%20Development-%2343853D.svg?style=plastic&logo=node.js&logoColor=white)](your_link_here)
 
-<a img align="center" href="https://roadmap.sh"><img src="https://roadmap.sh/card/wide/66d081c9553501e3c3f279b3?variant=dark" alt="roadmap.sh"/></a>
+<p> <a img align="center" href="https://roadmap.sh"><img src="https://roadmap.sh/card/wide/66d081c9553501e3c3f279b3?variant=dark" alt="roadmap.sh"/></a></p>
 
 ### 👨‍💻 Projects
 [![Projects](https://img.shields.io/badge/View_My_GitHub_Profile-ayudixit-black?style=plastic&logo=github)](https://github.com/ayudixit)
@@ -44,7 +44,7 @@
 
 ## Connect With Me 🔗
 [![Linktree](https://img.shields.io/badge/Linktree-%23000000.svg?style=plastic&logo=linktree&logoColor=white)](https://linktr.ee/Ayu.dixit)
-[![Gmail](https://img.shields.io/badge/badge%20Me-blue?style=for-the-badge&logo=gmail)](mailto:ayushrkl123@gmail.com)
+[![Gmail](https://img.shields.io/badge/Contact%20Me-blue?style=for-the-badge&logo=gmail)](mailto:ayushrkl123@gmail.com)
 [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://www.instagram.com/ayu.dixit)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/ayushdixit21/)
 [![Twitter](https://img.shields.io/badge/Twitter-%231DA1F2.svg?logo=Twitter&logoColor=white)](https://x.com/og_ayu)
@@ -67,7 +67,7 @@
 ## 🏆 Achievements
 <p align="center"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=ayudixit" alt="ayudixit" /></a> </p>
 
-# 📊 GitHub Stats:
+## 📊 GitHub Stats:
 ![](https://github-readme-stats.vercel.app/api?username=ayudixit&theme=radical&hide_border=false&include_all_commits=true&count_private=true)<br/>
 ![](https://github-readme-streak-stats.herokuapp.com/?user=ayudixit&theme=radical&hide_border=false)<br/>
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=ayudixit&theme=radical&hide_border=false&include_all_commits=true&count_private=true&layout=compact)
