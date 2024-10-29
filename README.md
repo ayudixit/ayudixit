@@ -43,12 +43,14 @@
 
 
 ## Connect With Me 🔗
-[![Linktree](https://img.shields.io/badge/Linktree-%23000000.svg?style=plastic&logo=linktree&logoColor=white)](https://linktr.ee/Ayu.dixit)
-[![Gmail](https://img.shields.io/badge/Contact%20Me-blue?style=for-the-badge&logo=gmail)](mailto:ayushrkl123@gmail.com)
-[![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://www.instagram.com/ayu.dixit)
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/ayushdixit21/)
-[![Twitter](https://img.shields.io/badge/Twitter-%231DA1F2.svg?logo=Twitter&logoColor=white)](https://x.com/og_ayu)
-[![LeetCode Solutions](https://img.shields.io/badge/LeetCode-100+-brightgreen.svg?style=plastic&logo=leetcode)](#)
+<p align="left">
+<a href="https://twitter.com/og_ayu" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="og_ayu" height="30" width="40" /></a>
+<a href="https://linkedin.com/in/ayushdixit21" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="ayushdixit21" height="30" width="40" /></a>
+<a href="https://instagram.com/ayu.dixit" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="ayu.dixit" height="30" width="40" /></a>
+<a href="https://www.hackerrank.com/ayushrkl123" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/hackerrank.svg" alt="ayushrkl123" height="30" width="40" /></a>
+<a href="https://www.leetcode.com/ayushrkl123" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="ayushrkl123" height="30" width="40" /></a>
+<a href="https://discord.gg/ayu.dixit" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/discord.svg" alt="ayu.dixit" height="30" width="40" /></a>
+</p>
 
 ### 💻 Tech Stack:
 ![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=plastic&logo=css3&logoColor=white)
