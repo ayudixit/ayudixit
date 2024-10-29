@@ -1,3 +1,5 @@
+<a href="https://roadmap.sh"><img src="https://roadmap.sh/card/wide/66d081c9553501e3c3f279b3?variant=dark" alt="roadmap.sh"/></a>
+
 [![An image of @ankit071105's Holopin badges, which is a link to view their full Holopin profile](https://holopin.me/ayudixit)]((https://www.holopin.io/@ayudixit))<br>
 
 <picture>
