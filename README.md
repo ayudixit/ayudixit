@@ -65,7 +65,7 @@
 
 
 # 🏆 Achievements
-![trophy](<p align="centre"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=ayudixit" alt="ayudixit" /></a> </p>)
+[![trophy](<p align="center"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=ayudixit" alt="ayudixit" /></a> </p>)]
 
 # 📊 GitHub Stats:
 ![](https://github-readme-stats.vercel.app/api?username=ayudixit&theme=radical&hide_border=false&include_all_commits=true&count_private=true)<br/>
