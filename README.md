@@ -22,8 +22,8 @@
 
 ### 🌱 Having Knowledge about
 [![Web Development](https://img.shields.io/badge/Web%20Development-0078D4?style=plastic)](your_link_here)
-[![App Development](https://img.shields.io/badge/Web%20Designing-800080?style=plastic)](your_link_here)
-
+[![Web Designing](https://img.shields.io/badge/Web%20Designing-800080?style=plastic)](your_link_here)
+[![App Designing](https://img.shields.io/badge/App%20Designing-800080?style=plastic)](your_link_here)
 
 ### 🌱 Currently Learning
 [![DSA With JAVA](https://img.shields.io/badge/DSA%20With%20JAVA-%23ED8B00.svg?style=plastic&logo=java&logoColor=white)](your_link_here)
@@ -31,12 +31,10 @@
 [![Frontend in Web Development](https://img.shields.io/badge/Backend%20in%20Web%20Development-%2343853D.svg?style=plastic&logo=node.js&logoColor=white)](your_link_here)
 [![Backend in Web Development](https://img.shields.io/badge/Frontend%20in%20Web%20Development-%23ED8B00.svg?style=plastic&logo=node.js&logoColor=white)](your_link_here)
 
-<p> <a img align="center" href="https://roadmap.sh"><img src="https://roadmap.sh/card/wide/66d081c9553501e3c3f279b3?variant=dark" alt="roadmap.sh"/></a></p>
 
 ### 👨‍💻 Projects
 [![Projects](https://img.shields.io/badge/View_My_GitHub_Profile-ayudixit-black?style=plastic&logo=github)](https://github.com/ayudixit)
-
-  <img align="right" alt="Coding" width="400" src="https://private-user-images.githubusercontent.com/74038190/371756374-0bf134e2-c0ba-488b-bbd4-9300f2f77871.gif?jwt=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpc3MiOiJnaXRodWIuY29tIiwiYXVkIjoicmF3LmdpdGh1YnVzZXJjb250ZW50LmNvbSIsImtleSI6ImtleTUiLCJleHAiOjE3MzAzNzc2NzAsIm5iZiI6MTczMDM3NzM3MCwicGF0aCI6Ii83NDAzODE5MC8zNzE3NTYzNzQtMGJmMTM0ZTItYzBiYS00ODhiLWJiZDQtOTMwMGYyZjc3ODcxLmdpZj9YLUFtei1BbGdvcml0aG09QVdTNC1ITUFDLVNIQTI1NiZYLUFtei1DcmVkZW50aWFsPUFLSUFWQ09EWUxTQTUzUFFLNFpBJTJGMjAyNDEwMzElMkZ1cy1lYXN0LTElMkZzMyUyRmF3czRfcmVxdWVzdCZYLUFtei1EYXRlPTIwMjQxMDMxVDEyMjI1MFomWC1BbXotRXhwaXJlcz0zMDAmWC1BbXotU2lnbmF0dXJlPWZmNmM5YWY5OGIwNTY0MzZkMWRlOTdkYThlOWYyYzFlMjRlYTkyY2JiYjljOTFlOWMyMjA5M2Q5YmYyYjA5ZGUmWC1BbXotU2lnbmVkSGVhZGVycz1ob3N0In0.0NaTkYxXcY3WYcVwXZhg1O_RI31G0SYk8ZZo4CohlY4">
+<img align="right" alt="coding" width="400" src="https://mir-s3-cdn-cf.behance.net/project_modules/hd/06f21a161921919.63cd7887d0a70.gif">
 
   
 ### 💬 Ask Me About
@@ -45,7 +43,6 @@
 
 ### Experience 👨🏻‍🎓
 [![Experience](https://img.shields.io/badge/Experience-My_Portfolio-blueviolet?style=plastic&logo=portfolio)](https://ankitportfolio07.netlify.app/)
-
 
 ### Connect With Me 🔗
 <p align="left">
@@ -58,18 +55,26 @@
 </p>
 
 ### 💻 Tech Stack:
-![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=plastic&logo=css3&logoColor=white)
-![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=plastic&logo=javascript&logoColor=%23F7DF1E)
-![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=plastic&logo=openjdk&logoColor=white)
-![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=plastic&logo=html5&logoColor=white)
-![GithubPages](https://img.shields.io/badge/github%20pages-121013?style=plastic&logo=github&logoColor=white)
-![Netlify](https://img.shields.io/badge/netlify-%23000000.svg?style=plastic&logo=netlify&logoColor=#00C7B7)
-![Bootstrap](https://img.shields.io/badge/bootstrap-%238511FA.svg?style=plastic&logo=bootstrap&logoColor=white)
-![React](https://img.shields.io/badge/react-%2320232a.svg?style=plastic&logo=react&logoColor=%2361DAFB)
-![NodeJS](https://img.shields.io/badge/node.js-6DA55F?style=plastic&logo=node.js&logoColor=white)
-![Figma](https://img.shields.io/badge/figma-%23F24E1E.svg?style=plastic&logo=figma&logoColor=white)
-![Canva](https://img.shields.io/badge/Canva-%2300C4CC.svg?style=plastic&logo=Canva&logoColor=white)
+<div align="center">
+<img src="https://user-images.githubusercontent.com/74038190/212257454-16e3712e-945a-4ca2-b238-408ad0bf87e6.gif" width="100"><img src="https://user-images.githubusercontent.com/74038190/212257472-08e52665-c503-4bd9-aa20-f5a4dae769b5.gif" width="100">
+<img src="https://user-images.githubusercontent.com/74038190/212257468-1e9a91f1-b626-4baa-b15d-5c385dfa7ed2.gif" width="100">
+<img src="https://user-images.githubusercontent.com/74038190/212257465-7ce8d493-cac5-494e-982a-5a9deb852c4b.gif" width="100">
+<img src="https://user-images.githubusercontent.com/74038190/212257463-4d082cb4-7483-4eaf-bc25-6dde2628aabd.gif" width="100">
+<img src="https://user-images.githubusercontent.com/74038190/212257460-738ff738-247f-4445-a718-cdd0ca76e2db.gif" width="100">
+<img src="https://user-images.githubusercontent.com/74038190/212257467-871d32b7-e401-42e8-a166-fcfd7baa4c6b.gif" width="100">
+<img src="https://user-images.githubusercontent.com/74038190/212281756-450d3ffa-9335-4b98-a965-db8a18fee927.gif" width="100">
+<img src="https://user-images.githubusercontent.com/74038190/212280805-9bcb336b-8c55-46a8-abf8-ff286ab55472.gif" width="100">
+<img src="https://user-images.githubusercontent.com/74038190/212280823-79088828-a258-4a4d-8d6c-96315d5a07af.gif" width="100">
 
+<img src="https://user-images.githubusercontent.com/74038190/212281775-b468df30-4edc-4bf8-a4ee-f52e1aaddc86.gif" width="100">
+  
+<img src="https://github.com/Anmol-Baranwal/Cool-GIFs-For-GitHub/assets/74038190/1a797f46-efe4-41e6-9e75-5303e1bbcbfa" width="100">
+<img src="https://github.com/Anmol-Baranwal/Cool-GIFs-For-GitHub/assets/74038190/29fd6286-4e7b-4d6c-818f-c4765d5e39a9" width="100">
+<img src="https://github.com/Anmol-Baranwal/Cool-GIFs-For-GitHub/assets/74038190/67f477ed-6624-42da-99f0-1a7b1a16eecb" width="100">
+<img src="https://github.com/Anmol-Baranwal/Cool-GIFs-For-GitHub/assets/74038190/3c16d4f2-b757-4c70-8f42-43d5dddd2c36" width="100">
+<img src="https://github.com/Anmol-Baranwal/Cool-GIFs-For-GitHub/assets/74038190/3fb2cdf6-8920-462e-87a4-95af376418aa" width="100">
+</div>
+<br><br>   
 
 ### 🏆 Achievements
 <p align="center"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=ayudixit" alt="ayudixit" /></a> </p>
@@ -78,10 +83,6 @@
 ![](https://github-readme-stats.vercel.app/api?username=ayudixit&theme=radical&hide_border=false&include_all_commits=true&count_private=true&card_width=1200&card_height=800)<br/>
 [![GitHub Streak](https://streak-stats.demolab.com?user=ayudixit&theme=youtube-dark&card_width=1199&card_height=250)](https://git.io/streak-stats)<br/>
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=ayudixit&theme=radical&hide_border=false&include_all_commits=true&count_private=true&layout=compact&card_width=1200&card_height=100)
-
-
-
-<img align="right" alt="Coding" width="250" src="https://private-user-images.githubusercontent.com/74038190/371756373-fddcdbcd-5ea2-4416-9f59-ca7fd9394aca.gif?jwt=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpc3MiOiJnaXRodWIuY29tIiwiYXVkIjoicmF3LmdpdGh1YnVzZXJjb250ZW50LmNvbSIsImtleSI6ImtleTUiLCJleHAiOjE3MzAzNzc2NzAsIm5iZiI6MTczMDM3NzM3MCwicGF0aCI6Ii83NDAzODE5MC8zNzE3NTYzNzMtZmRkY2RiY2QtNWVhMi00NDE2LTlmNTktY2E3ZmQ5Mzk0YWNhLmdpZj9YLUFtei1BbGdvcml0aG09QVdTNC1ITUFDLVNIQTI1NiZYLUFtei1DcmVkZW50aWFsPUFLSUFWQ09EWUxTQTUzUFFLNFpBJTJGMjAyNDEwMzElMkZ1cy1lYXN0LTElMkZzMyUyRmF3czRfcmVxdWVzdCZYLUFtei1EYXRlPTIwMjQxMDMxVDEyMjI1MFomWC1BbXotRXhwaXJlcz0zMDAmWC1BbXotU2lnbmF0dXJlPWMxZGJjNmIwYzE2NzdmNWRjOTBmMzRkMmI2MTg1ODlkY2Y0NjZhMzAwZDE5MWEwZTIxMTBiMWUwZDVjNjliZWQmWC1BbXotU2lnbmVkSGVhZGVycz1ob3N0In0.wpvqURlu85laFzxffTSPjFXtW2NpF8GGFJnY0MXnUrQ">
 
 ### 🔝 Top Contributed Repo
 ![](https://github-contributor-stats.vercel.app/api?username=ayudixit&limit=5&theme=dark&combine_all_yearly_contributions=true&card_width=1200&card_height=600)
