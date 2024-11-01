@@ -35,12 +35,13 @@
 
 ### 👨‍💻 Projects
 [![Projects](https://img.shields.io/badge/View_My_GitHub_Profile-ayudixit-black?style=plastic&logo=github)](https://github.com/ayudixit)
+
   <img align="right" alt="Coding" width="400" src="https://private-user-images.githubusercontent.com/74038190/371756374-0bf134e2-c0ba-488b-bbd4-9300f2f77871.gif?jwt=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpc3MiOiJnaXRodWIuY29tIiwiYXVkIjoicmF3LmdpdGh1YnVzZXJjb250ZW50LmNvbSIsImtleSI6ImtleTUiLCJleHAiOjE3MzAzNzc2NzAsIm5iZiI6MTczMDM3NzM3MCwicGF0aCI6Ii83NDAzODE5MC8zNzE3NTYzNzQtMGJmMTM0ZTItYzBiYS00ODhiLWJiZDQtOTMwMGYyZjc3ODcxLmdpZj9YLUFtei1BbGdvcml0aG09QVdTNC1ITUFDLVNIQTI1NiZYLUFtei1DcmVkZW50aWFsPUFLSUFWQ09EWUxTQTUzUFFLNFpBJTJGMjAyNDEwMzElMkZ1cy1lYXN0LTElMkZzMyUyRmF3czRfcmVxdWVzdCZYLUFtei1EYXRlPTIwMjQxMDMxVDEyMjI1MFomWC1BbXotRXhwaXJlcz0zMDAmWC1BbXotU2lnbmF0dXJlPWZmNmM5YWY5OGIwNTY0MzZkMWRlOTdkYThlOWYyYzFlMjRlYTkyY2JiYjljOTFlOWMyMjA5M2Q5YmYyYjA5ZGUmWC1BbXotU2lnbmVkSGVhZGVycz1ob3N0In0.0NaTkYxXcY3WYcVwXZhg1O_RI31G0SYk8ZZo4CohlY4">
 
   
 ### 💬 Ask Me About
 [![Web Development](https://img.shields.io/badge/Web%20Development-0078D4?style=plastic)](your_link_here)
-[![App Development](https://img.shields.io/badge/App%20Development-FF6F61?style=plastic)](your_link_here)
+[![Web Desigining](https://img.shields.io/badge/Web%20Desigining-FF6F61?style=plastic)](your_link_here)
 
 ### Experience 👨🏻‍🎓
 [![Experience](https://img.shields.io/badge/Experience-My_Portfolio-blueviolet?style=plastic&logo=portfolio)](https://ankitportfolio07.netlify.app/)
@@ -88,5 +89,6 @@
 [![](https://visitcount.itsvg.in/api?id=ayudixit&label=Profile%20Views&color=6&icon=5&pretty=false)](https://visitcount.itsvg.in)
 
 
+<a href="#"><img src="https://github-readme-activity-graph.vercel.app/graph?username=ayudixit&theme=github-compact&custom_title=My%20GitHub%20Contribution%20Graph&radius=16&hide_border=true&area=true&color=32CD32" alt="My GitHub Contribution Graph" /></a>
 
 
