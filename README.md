@@ -75,7 +75,7 @@
 <img src="https://github.com/Anmol-Baranwal/Cool-GIFs-For-GitHub/assets/74038190/3fb2cdf6-8920-462e-87a4-95af376418aa" width="100">
 </div>
 
-### 📊 Achievements:
+### 🏆 Achievements:
 <p align="center"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=ayudixit" alt="ayudixit" /></a> </p>
 
 ### 📊 GitHub Stats:
