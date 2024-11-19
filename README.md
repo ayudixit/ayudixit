@@ -42,7 +42,7 @@
 [![Web Desigining](https://img.shields.io/badge/Web%20Desigining-FF6F61?style=plastic)](your_link_here)
 
 ### Experience 👨🏻‍🎓
-[![Experience](https://img.shields.io/badge/Experience-My_Portfolio-blueviolet?style=plastic&logo=portfolio)](https://ankitportfolio07.netlify.app/)
+[![Experience](https://img.shields.io/badge/Experience-My_Portfolio-blueviolet?style=plastic&logo=portfolio)](https://github.com/ayudixit)
 
 ### Connect With Me 🔗
 <p align="left">
