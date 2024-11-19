@@ -20,6 +20,10 @@
   />
 </picture>
 
+<img align="right" alt="coding" width="1000" src="https://user-images.githubusercontent.com/74038190/212284100-561aa473-3905-4a80-b561-0d28506553ee.gif">
+
+
+
 ### 🌱 Having Knowledge about
 [![Web Development](https://img.shields.io/badge/Web%20Development-0078D4?style=plastic)](your_link_here)
 [![Web Designing](https://img.shields.io/badge/Web%20Designing-800080?style=plastic)](your_link_here)
@@ -54,6 +58,8 @@
 <a href="https://discord.gg/ayu.dixit" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/discord.svg" alt="ayu.dixit" height="30" width="40" /></a>
 </p>
 
+
+
 ### 💻 Tech Stack:
 <div align="center">
 <img src="https://user-images.githubusercontent.com/74038190/212257454-16e3712e-945a-4ca2-b238-408ad0bf87e6.gif" width="100"><img src="https://user-images.githubusercontent.com/74038190/212257472-08e52665-c503-4bd9-aa20-f5a4dae769b5.gif" width="100">
@@ -87,6 +93,8 @@
 ![](https://github-contributor-stats.vercel.app/api?username=ayudixit&limit=5&theme=dark&combine_all_yearly_contributions=true&card_width=1200&card_height=600)
 
 [![](https://visitcount.itsvg.in/api?id=ayudixit&label=Profile%20Views&color=6&icon=5&pretty=false)](https://visitcount.itsvg.in)
+
+<img align="right" alt="coding" width="1000" src="https://user-images.githubusercontent.com/74038190/213910845-af37a709-8995-40d6-be59-724526e3c3d7.gif">
 
 
 <a href="#"><img src="https://github-readme-activity-graph.vercel.app/graph?username=ayudixit&theme=github-compact&custom_title=My%20GitHub%20Contribution%20Graph&radius=16&hide_border=true&area=true&color=32CD32" alt="My GitHub Contribution Graph" /></a>
